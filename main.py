@@ -10,8 +10,6 @@ to_show = ['Hostname','Players','Mapname']
 def players(self,data):
     os.system("cls")
     
-    
-    
 def UI():
     os.system("cls")
     os.system("color a")
