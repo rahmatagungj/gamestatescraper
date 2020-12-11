@@ -51,8 +51,7 @@ class scrap(object):
 
 if __name__ == "__main__":
     UI()
-    to_find = "Republic City" 
-    # str(input("Enter Server Name : "))
+    to_find = str(input("Enter Server Name : "))
     loading()
     print(scrap(to_find))
     
